@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Данные (не включать пользовательские тренировки в репозиторий, если не нужно)
+trainings.json
+
+# ОС
+.DS_Store
+Thumbs.db
